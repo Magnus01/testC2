@@ -73,4 +73,3 @@ echo "*-COMPILEBOX::ENDOFOUTPUT-*" $runtime
 
 
 mv /usercode/logfile.txt /usercode/completed
-
